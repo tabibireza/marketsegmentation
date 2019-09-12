@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564642671051.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "727590533",
+    "id" : "6B63D4B1",
+    "lastKnownWriteTime" : 1564644446,
+    "last_content_update" : 1564644446052,
+    "path" : "C:/rezawork/study/r-studio/projects/marketsegmentation/kmeans.R",
+    "project_path" : "kmeans.R",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

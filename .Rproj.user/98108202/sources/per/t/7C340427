@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567271078268.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7C340427",
+    "lastKnownWriteTime" : 8028074750225051768,
+    "last_content_update" : 1567271078268,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BDCADCFE",
+        "caption" : "seg_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=seg_data&cache_key=BDCADCFE",
+        "displayedObservations" : 73,
+        "environment" : "",
+        "expression" : "seg_data",
+        "object" : "seg_data",
+        "preview" : 0,
+        "totalObservations" : 73,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

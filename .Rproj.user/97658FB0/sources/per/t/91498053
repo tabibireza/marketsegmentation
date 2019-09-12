@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564644464614.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2549925996",
+    "id" : "91498053",
+    "lastKnownWriteTime" : 1564646446,
+    "last_content_update" : 1564646446478,
+    "path" : "C:/rezawork/study/r-studio/projects/marketsegmentation/latentclust.R",
+    "project_path" : "latentclust.R",
+    "properties" : {
+        "cursorPosition" : "41,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
