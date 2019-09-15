@@ -1,12 +1,8 @@
+
 # hierarchical clustring   
-
-install.packages("NbClust")
-
-projectdir <- "E:/towork/study/r-studio/projects/marketsegmentation"
-setwd(projectdir)
-getwd()
+projectdir <- "C:/rezawork/study/r-studio/edx-marketing analytics/week2-marketsegmentation"
 seg_data <- read.csv(file = "SegmentationData.csv",row.names=1)
-head(seg_data)
+str(seg_data)
 
 
 # standardization
